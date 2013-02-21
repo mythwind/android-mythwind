@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persons>
+	<person id="1">
+		<name>wang</name>
+		<age>23</age>
+	</person>
+	<person id="2">
+		<name>shu</name>
+		<age>24</age>
+	</person>
+	<person id="3">
+		<name>sheng</name>
+		<age>25</age>
+	</person>
+</persons>

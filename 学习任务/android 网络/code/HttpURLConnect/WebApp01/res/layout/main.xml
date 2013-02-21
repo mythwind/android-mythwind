@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" />
+    <EditText 
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button 
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="发表"/>
+    <ScrollView 
+        android:id="@+id/scrollView01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+        <LinearLayout 
+            android:id="@+id/linearLayout01"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent">
+            <TextView 
+                android:id="@+id/result"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

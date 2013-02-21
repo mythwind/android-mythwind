@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/traffic01" android:title="交通模式1" />
+    <item android:id="@+id/traffic02" android:title="交通模式2" />
+    <item android:id="@+id/staellite01" android:title="卫星模式1" />
+    <item android:id="@+id/staellite02" android:title="卫星模式2" />
+
+</menu>

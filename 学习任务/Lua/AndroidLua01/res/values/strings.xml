@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidLuaActivity!</string>
+    <string name="app_name">AndroidLua演示</string>
+
+</resources>

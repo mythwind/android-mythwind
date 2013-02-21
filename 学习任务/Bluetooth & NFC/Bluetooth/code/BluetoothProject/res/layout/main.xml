@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+
+        <com.mfei.bluetooth.MySurfaceView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+        <Button
+            android:id="@+id/Btn_OpenBt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:text="@string/openBlueTooth" />
+
+        <Button
+            android:id="@+id/Btn_BtIsVisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@id/Btn_OpenBt"
+            android:text="@string/blueToothIsVisible" />
+
+        <Button
+            android:id="@+id/Btn_SearchDrives"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@id/Btn_BtIsVisible"
+            android:text="@string/searchDrives" />
+
+        <Button
+            android:id="@+id/Btn_ConnectDrives"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@id/Btn_SearchDrives"
+            android:text="@string/connectDrives" />
+
+        <TextView
+            android:id="@+id/textview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_horizontal"
+            android:text="蓝牙对战Demo示例"
+            android:textColor="#000000"
+            android:textSize="32sp" />
+    </RelativeLayout>
+
+</LinearLayout>

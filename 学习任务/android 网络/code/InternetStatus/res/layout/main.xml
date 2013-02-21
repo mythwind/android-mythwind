@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/internet_status" />
+    <TableLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/button">
+        <TableRow>
+            <TextView 
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/isavailable"/>
+            <TextView 
+                android:id="@+id/isavailable"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="" />
+        </TableRow>
+        <TableRow>
+            <TextView 
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/network_type"/>
+            <TextView 
+                android:id="@+id/network_type"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="" />
+        </TableRow>
+        <TableRow>
+            <TextView 
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/subtype"/>
+            <TextView 
+                android:id="@+id/subtype"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="" />
+        </TableRow>
+        <TableRow>
+            <TextView 
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/network_status_01"/>
+            <TextView 
+                android:id="@+id/network_status_01"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="" />
+        </TableRow>
+        <TableRow>
+            <TextView 
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/network_status_02"/>
+            <TextView 
+                android:id="@+id/network_status_02"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="" />
+        </TableRow>
+        <TableRow>
+            <TextView 
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/network_extra"/>
+            <TextView 
+                android:id="@+id/network_extra"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="" />
+        </TableRow>
+        <TableRow>
+            <TextView 
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/network_isroam"/>
+            <TextView 
+                android:id="@+id/network_isroam"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="" />
+        </TableRow>
+    </TableLayout>
+
+</RelativeLayout>

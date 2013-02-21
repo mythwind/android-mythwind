@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MyMapActivity!</string>
+    <string name="app_name">GoogleMapDemo</string>
+    <string name="dialog_find">请输入地点名</string>
+    <string name="button_ok">确定</string>
+    <string name="button_cancel">取消</string>
+
+</resources>

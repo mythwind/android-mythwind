@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/com/baidu/mapapi/demo/BMapApiDemoApp.java=GBK
+encoding//src/com/baidu/mapapi/demo/BMapApiDemoMain.java=GBK
+encoding//src/com/baidu/mapapi/demo/GeoCoder.java=GBK
+encoding//src/com/baidu/mapapi/demo/ItemizedOverlayDemo.java=GBK
+encoding//src/com/baidu/mapapi/demo/LocationOverlay.java=GBK
+encoding//src/com/baidu/mapapi/demo/MapViewDemo.java=GBK
+encoding//src/com/baidu/mapapi/demo/MyLocation.java=GBK
+encoding//src/com/baidu/mapapi/demo/OfflineDemo.java=GBK
+encoding//src/com/baidu/mapapi/demo/PoiSearch.java=GBK
+encoding//src/com/baidu/mapapi/demo/RoutePlan.java=GBK

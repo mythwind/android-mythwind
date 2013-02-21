@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="itcastTheme" parent="android:Theme">
+        <item name="android:windowContentOverlay">@color/apl</item>
+        <item name="android:windowTitleSize">44dip</item>
+        <item name="android:windowTitleBackgroundStyle">@style/itcastbg</item>
+    </style>
+    
+    <style name="itcastbg">
+        <item name="android:background">@drawable/rectangle</item>
+    </style>
+    
+    <style name="animation">
+        <item name="android:windowEnterAnimation">@anim/enter</item>
+        <item name="android:windowExitAnimation">@anim/out</item>
+    </style>
+    
+</resources>

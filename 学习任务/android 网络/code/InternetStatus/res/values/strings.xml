@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">网络状态</string>
+    
+    <string name="internet_status">查询网络状态信息</string>
+    <string name="isavailable">网络是否可用：</string>
+    <string name="network_type">网络类型：</string>
+    <string name="subtype">SubType：</string>
+    <string name="network_status_01">网络连接状态(粗略)：</string>
+    <string name="network_status_02">网络连接状态(详细)：</string>
+    <string name="network_extra">连接附加信息：</string>
+    <string name="network_isroam">网络是否漫游：</string>
+    
+    <string name="network_unavailable_msg">无可用网络</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+
+</resources>
