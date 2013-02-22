@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://mobile.51cto.com/Lua-289503.htm
+[DOC#334]
+BASEURL=http://widget.weibo.com/livestream/listlive.php?width=0&height=500&uid=1877466161&skin=1&refer=1&pic=1&titlebar=1&border=1&publish=1&atalk=1&recomm=0&at=0&appkey=Lua&atopic=Lua&ptopic=Lua
+ORIGURL=http://widget.weibo.com/livestream/listlive.php?width=0&height=500&uid=1877466161&skin=1&refer=1&pic=1&titlebar=1&border=1&publish=1&atalk=1&recomm=0&at=0&appkey=Lua&atopic=Lua&ptopic=Lua
+[InternetShortcut]
+URL=http://mobile.51cto.com/Lua-289503.htm
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.programfan.com/article/article.asp?classid=7
+[DOC_baiduSpFrame]
+BASEURL=http://spcode.baidu.com/spcode/spstyle/style2832.jsp?tn=yaozheng_sp&ctn=0&styleid=2832
+ORIGURL=http://spcode.baidu.com/spcode/spstyle/style2832.jsp?tn=yaozheng_sp&ctn=0&styleid=2832
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.programfan.com/article/article.asp?classid=7
+IDList=
+IconFile=http://www.programfan.com/favicon.ico
+IconIndex=1

@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.verycd.com/topics/93279/
+[DOC_down_iframe]
+BASEURL=http://www.verycd.com/topics/93279/
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.verycd.com/topics/93279/
+IDList=
+IconFile=http://www.verycd.com/favicon.ico
+IconIndex=1

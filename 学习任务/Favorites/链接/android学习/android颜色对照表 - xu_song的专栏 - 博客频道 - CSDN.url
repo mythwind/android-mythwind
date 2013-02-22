@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://blog.csdn.net/xu_song/article/details/7587914
+[DOC_fulliframe]
+BASEURL=http://blog.csdn.net/xu_song/article/details/7587914
+ORIGURL=
+[DOC_fulliframe_ad_frm_0_aswift_0]
+BASEURL=http://blog.csdn.net/common/ad.html?t=4&containerId=ad_cen&frmId=ad_frm_0
+ORIGURL=
+[InternetShortcut]
+URL=http://blog.csdn.net/xu_song/article/details/7587914
+IDList=
+IconFile=http://blog.csdn.net/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

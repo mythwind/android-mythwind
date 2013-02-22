@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://www.eoeandroid.com/code/2012/0417/1153.html
+[DOC#112]
+BASEURL=http://v2.jiathis.com/code/jiathis_utility.html
+ORIGURL=http://v2.jiathis.com/code/jiathis_utility.html
+[DOC_comment_iframe]
+BASEURL=res://ieframe.dll/http_404.htm
+ORIGURL=http://www.eoe.cn/index.php?m=comment&c=index&a=init&commentid=content_303-1153-5&iframe=1
+[InternetShortcut]
+URL=http://www.eoeandroid.com/code/2012/0417/1153.html
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

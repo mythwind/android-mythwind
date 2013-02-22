@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://bbs.itcast.cn/forum.php?mod=forumdisplay&fid=97
+[InternetShortcut]
+URL=http://bbs.itcast.cn/forum.php?mod=forumdisplay&fid=97
+IDList=
+IconFile=http://bbs.itcast.cn/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

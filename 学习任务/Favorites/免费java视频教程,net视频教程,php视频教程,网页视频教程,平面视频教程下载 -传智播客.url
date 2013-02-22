@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.itcast.cn/channel/video.shtml
+[InternetShortcut]
+URL=http://www.itcast.cn/channel/video.shtml
+IDList=
+IconFile=http://www.itcast.cn/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

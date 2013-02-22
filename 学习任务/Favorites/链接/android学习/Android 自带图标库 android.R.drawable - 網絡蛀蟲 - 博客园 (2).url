@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.cnblogs.com/armyant/archive/2012/04/04/2432447.html
+[DOC_google_ads_iframe_/1090369/cnblogs_blogpost_C1_sitehome_0]
+BASEURL=http://www.cnblogs.com/armyant/archive/2012/04/04/2432447.html
+ORIGURL=javascript:window["contents"]
+[DOC_google_ads_iframe_/1090369/cnblogs_blogpost_C2_sitehome_0]
+BASEURL=http://www.cnblogs.com/armyant/archive/2012/04/04/2432447.html
+ORIGURL=
+[InternetShortcut]
+URL=http://www.cnblogs.com/armyant/archive/2012/04/04/2432447.html
+IDList=
+IconFile=http://www.cnblogs.com/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

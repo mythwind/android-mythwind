@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.boobooke.com/bbs/
+[DOC_f]
+BASEURL=http://124.160.227.111/adstyle_msn.html?adid=200571&tcca=NDExMTAxNTIzOTgy&urip=2086324802&orlu=aHR0cDovL3d3dy5ib29ib29rZS5jb20vYmJzLw==&spid=1367614118&area=1&ts=1323484070&aorlu=aHR0cDovL24uMTdwcHMuY29tL3NoZW56aG91L2hhbmd6aG91Mi8=&p1arm=325&p2arm=300&p3arm=30&p4arm=5&p5arm=3&p6arm=1&appd=0&hasCount=0&hasWhiteUser=0
+ORIGURL=http://124.160.227.111:80/a/s?f=adstyle_msn.html&adid=200571&tcca=NDExMTAxNTIzOTgy&urip=2086324802&orlu=aHR0cDovL3d3dy5ib29ib29rZS5jb20vYmJzLw==&spid=1367614118&area=1&ts=1323484070&aorlu=aHR0cDovL24uMTdwcHMuY29tL3NoZW56aG91L2hhbmd6aG91Mi8=&p1arm=325&p2arm=300&p3arm=30&p4arm=5&p5arm=3&p6arm=1&appd=0&hasCount=0&hasWhiteUser=0
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.boobooke.com/bbs/?t=1323482772821
+IDList=
+IconFile=http://www.boobooke.com/favicon.ico
+IconIndex=1

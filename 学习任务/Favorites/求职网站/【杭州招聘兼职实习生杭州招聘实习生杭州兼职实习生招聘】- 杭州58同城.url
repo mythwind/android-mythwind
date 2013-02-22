@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://hz.58.com/shixi/?key=%25u5b9e%25u4e60&cmcskey=%25u5b9e%25u4e60&final=1&searchtype=6&jump=1&searchtype=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://hz.58.com/shixi/?key=%25u5b9e%25u4e60&cmcskey=%25u5b9e%25u4e60&final=1&searchtype=6&jump=1&searchtype=1
+IDList=
+IconFile=http://hz.58.com/favicon.ico
+IconIndex=1

@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://bbs.51cto.com/forumdisplay.php?fid=291
+[DOC#478]
+BASEURL=http://v2.jiathis.com/code/jiathis_utility.html
+ORIGURL=http://v2.jiathis.com/code/jiathis_utility.html
+[InternetShortcut]
+URL=http://bbs.51cto.com/forumdisplay.php?fid=291
+IDList=
+IconFile=http://bbs.51cto.com/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

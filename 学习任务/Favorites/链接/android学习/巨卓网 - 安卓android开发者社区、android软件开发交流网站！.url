@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.juapk.com/forum.php
+[DOC_connectlike]
+BASEURL=http://www.juapk.com/api/connect/like.php
+ORIGURL=api/connect/like.php
+[InternetShortcut]
+URL=http://www.juapk.com/forum.php
+IDList=
+IconFile=http://www.juapk.com/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

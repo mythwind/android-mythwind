@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://bbs.51cto.com/viewthread.php?tid=1009851&highlight=
+[DOC_sinfo]
+BASEURL=http://home.51cto.com/activity/index.php?s=/Indextt/wish
+ORIGURL=http://home.51cto.com/activity/index.php?s=/Indextt/wish
+[InternetShortcut]
+URL=http://bbs.51cto.com/viewthread.php?tid=1009851&highlight=
+IDList=
+IconFile=http://bbs.51cto.com/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
