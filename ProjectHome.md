@@ -1,0 +1,1 @@
+the sample for learning android
